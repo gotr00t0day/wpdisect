@@ -1,5 +1,5 @@
 # wpdisect
-WpDisect is a wordpress hacking tool that finds vulnerabilities in wordpress.
+WpDisect is a wordpress hacking tool that finds misconfigurations in wordpress.
 
 ## Prerequisites
 
