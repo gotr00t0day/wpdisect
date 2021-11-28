@@ -27,7 +27,7 @@ banner = f"""
 
 # Target to scan
 
-target = "http://blog.thm"
+target = ""
 
 # wpdisect current directory
 
