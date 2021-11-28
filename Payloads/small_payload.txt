@@ -1,0 +1,16 @@
+wordpress
+wp
+wp-content
+wp-login
+wp-login.php
+wp-admin
+wp-config
+wp-config.php
+wp-mail.php
+wp-load.php
+wp-settings.php
+wp-includes
+wp-activate.php
+wp-cron.php
+wp-signup.php
+wp-config-sample.php
