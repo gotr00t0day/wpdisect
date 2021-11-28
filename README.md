@@ -5,7 +5,7 @@ WpDisect is a wordpress hacking tool that finds vulnerabilities in wordpress.
 
 You need to download wordpress in the wpdisect directory. 
 
-<b>DOWNLOAD WORDPRESS<b>
+<b>DOWNLOAD WORDPRESS<b><br>
 https://wordpress.org/latest.zip
 
 ## Installation
