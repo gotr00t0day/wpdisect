@@ -17,6 +17,10 @@ cd wpdisect<br>
 pip3 install -r requirements.txt<br>
 
 python3 wpdisect.py<br>
+  
+## Usage
+  
+edit wpdisect.py and modify the target = "" variable and add your target
 
 
 
